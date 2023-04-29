@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-homework-js-modul-8.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/goit-homework-js-modul-8/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.13.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
